@@ -1,0 +1,13 @@
+2023-06-22 21:52:50.826 [info] Extension host with pid 6477 started
+2023-06-22 21:52:50.826 [info] Skipping acquiring lock for /home/joe/.config/Code/User/workspaceStorage/f7162f45da4665fe7b6ea695a0b21d8d.
+2023-06-22 21:52:50.970 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-22 21:52:51.004 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-22 21:52:51.010 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-22 21:52:51.040 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-22 21:52:51.074 [info] Eager extensions activated
+2023-06-22 21:52:51.085 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-22 21:52:51.089 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-22 21:52:51.628 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-22 21:52:51.668 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-06-22 21:54:54.143 [info] Extension host terminating: renderer closed the MessagePort
+2023-06-22 21:54:54.170 [info] Extension host with pid 6477 exiting with code 0

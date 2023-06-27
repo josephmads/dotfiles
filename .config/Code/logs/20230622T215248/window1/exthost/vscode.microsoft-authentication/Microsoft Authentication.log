@@ -1,0 +1,21 @@
+2023-06-22 21:52:51.737 [info] Reading sessions from secret storage...
+2023-06-22 21:52:51.737 [info] Got 0 stored sessions
+2023-06-22 21:52:51.737 [info] Getting sessions for all scopes...
+2023-06-22 21:52:51.737 [info] Got 0 sessions for all scopes...
+2023-06-22 21:52:51.737 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-06-22 21:52:51.737 [info] Got 0 sessions for scopes: email offline_access openid profile
+2023-06-22 21:52:58.789 [info] Logging in for the following scopes: email offline_access openid profile
+2023-06-22 21:53:03.027 [info] Exchanging login code for token for scopes: email offline_access openid profile
+2023-06-22 21:53:03.385 [info] Exchanging login code for token (for scopes: email offline_access openid profile) succeeded!
+2023-06-22 21:53:03.385 [info] Setting token for scopes: email offline_access openid profile
+2023-06-22 21:53:03.385 [info] Login successful for scopes: email offline_access openid profile
+2023-06-22 21:53:03.385 [info] Token available from cache (for scopes email offline_access openid profile), expires in 5258998 milliseconds
+2023-06-22 21:53:03.392 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-06-22 21:53:03.392 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-06-22 21:53:03.393 [info] Token available from cache (for scopes email offline_access openid profile), expires in 5258991 milliseconds
+2023-06-22 21:53:03.393 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-06-22 21:53:03.393 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-06-22 21:53:03.393 [info] Token available from cache (for scopes email offline_access openid profile), expires in 5258990 milliseconds
+2023-06-22 21:53:04.808 [info] Stored token for scopes: email offline_access openid profile
+2023-06-22 21:53:04.862 [error] Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+2023-06-22 21:53:04.862 [error] Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files

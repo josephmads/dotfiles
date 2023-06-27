@@ -1,0 +1,23 @@
+2023-06-22 21:48:29.385 [info] Reading sessions from secret storage...
+2023-06-22 21:48:29.385 [info] Got 0 stored sessions
+2023-06-22 21:48:29.385 [info] Getting sessions for all scopes...
+2023-06-22 21:48:29.385 [info] Got 0 sessions for all scopes...
+2023-06-22 21:48:29.385 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-06-22 21:48:29.385 [info] Got 0 sessions for scopes: email offline_access openid profile
+2023-06-22 21:48:40.065 [info] Logging in for the following scopes: email offline_access openid profile
+2023-06-22 21:49:26.690 [info] Logging in for the following scopes: email offline_access openid profile
+2023-06-22 21:51:11.452 [info] Logging in for the following scopes: email offline_access openid profile
+2023-06-22 21:52:01.544 [info] Exchanging login code for token for scopes: email offline_access openid profile
+2023-06-22 21:52:01.961 [info] Exchanging login code for token (for scopes: email offline_access openid profile) succeeded!
+2023-06-22 21:52:01.961 [info] Setting token for scopes: email offline_access openid profile
+2023-06-22 21:52:01.961 [info] Login successful for scopes: email offline_access openid profile
+2023-06-22 21:52:01.961 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4138999 milliseconds
+2023-06-22 21:52:01.965 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-06-22 21:52:01.965 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-06-22 21:52:01.965 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4138995 milliseconds
+2023-06-22 21:52:01.966 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-06-22 21:52:01.966 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-06-22 21:52:01.966 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4138994 milliseconds
+2023-06-22 21:52:06.573 [info] Stored token for scopes: email offline_access openid profile
+2023-06-22 21:52:06.646 [error] Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+2023-06-22 21:52:06.646 [error] Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files

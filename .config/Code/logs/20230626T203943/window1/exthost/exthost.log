@@ -1,0 +1,31 @@
+2023-06-26 20:39:45.299 [info] Extension host with pid 928 started
+2023-06-26 20:39:45.299 [info] Skipping acquiring lock for /home/joe/.config/Code/User/workspaceStorage/54eeb490760ef078716796468b3d0d32.
+2023-06-26 20:39:45.372 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-26 20:39:45.386 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-26 20:39:45.424 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-26 20:39:45.474 [info] Eager extensions activated
+2023-06-26 20:39:45.491 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-26 20:39:45.500 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-26 20:39:45.585 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-26 20:39:45.766 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-06-26 20:40:18.475 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-26 20:40:42.599 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-06-26 20:56:44.524 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-26 21:05:45.589 [info] Extension host terminating: renderer closed the MessagePort
+2023-06-26 21:05:45.638 [info] Extension host with pid 928 exiting with code 0
+2023-06-26 21:05:46.540 [info] Extension host with pid 3235 started
+2023-06-26 21:05:46.540 [info] Skipping acquiring lock for /home/joe/.config/Code/User/workspaceStorage/54eeb490760ef078716796468b3d0d32.
+2023-06-26 21:05:46.684 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-26 21:05:46.704 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-06-26 21:05:46.717 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-26 21:05:46.730 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-06-26 21:05:46.741 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-06-26 21:05:47.312 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-26 21:05:47.325 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-26 21:05:47.365 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-26 21:05:47.553 [info] Eager extensions activated
+2023-06-26 21:05:47.654 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-06-26 21:05:47.663 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-06-26 21:17:44.498 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-06-26 21:17:44.527 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-06-26 21:17:45.154 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
